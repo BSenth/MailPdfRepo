@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MailPdfApp.csproj" />
+  <Project Path="MailPdfApp.Tests\MailPdfApp.Tests.csproj" />
+</Solution>
